@@ -1,0 +1,11 @@
+Given a string A and a dictionary of n words B, find out if A can be segmented into a space-separated sequence of dictionary words. 
+
+
+Example 1:
+
+Input:
+n = 12
+B = { "i", "like", "sam", "sung", "samsung", "mobile",
+"ice","cream", "icecream", "man", "go", "mango" }
+A = "ilike"
+Output: 1
